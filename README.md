@@ -48,6 +48,8 @@ The objective was to examine captured network packets, identify network protocol
 
 Findings from the network traffic analysis will be documented here.
 
+## Screenshots
+
 The following sanitized screenshot demonstrates packet analysis performed in Wireshark. Sensitive network information has been masked for privacy.
 
 ![Wireshark Network Traffic Analysis](wireshark-analysis-sanitized.png)
